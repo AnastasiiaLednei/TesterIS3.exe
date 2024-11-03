@@ -17,8 +17,7 @@ Time Spent:	Not Specified
 Original estimate:	Not Specified 
 
 Attachments: 	![Unrealistic_vaccination_date_and_free_vaccination_offer](https://github.com/user-attachments/assets/ca4632f7-e2f1-4ef2-8857-07fffe452c92)
-
-)   
+ 
 Issue links: 	Relates
 relates to 	TE-12 
 Test case 10: Nabídka očkování proti ... 	Done 
@@ -56,7 +55,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Discount_50_for_patients_aged_70.png     ![Alt text](path/to/image)
+Attachments: 	 ![Discount_50_for_patients_aged_70](https://github.com/user-attachments/assets/69aefa4c-0049-424d-9660-5d410a741072)
+
 Issue links: 	Relates
 relates to 	TE-11 
 Test case 9: Vypočet slev na brýle na... 	Done 
@@ -93,7 +93,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Discount_20_for_patients_aged_50.png     ![Alt text](path/to/image)
+Attachments: 	![Discount_20_for_patients_aged_50](https://github.com/user-attachments/assets/feb0547d-7bc1-4209-86e6-80609ee61312)
+
 Issue links: 	Relates
 relates to 	TE-11 
 Test case 9: Vypočet slev na brýle na... 	Done 
@@ -130,7 +131,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Vaccine_Date_Validation_Failure.png     ![Alt text](path/to/image)
+Attachments: 	 ![Vaccine_Date_Validation_Failure](https://github.com/user-attachments/assets/32348c01-bc31-4de7-84c6-e63ad6f1a3ec)
+
 Issue links: 	Relates
 relates to 	TE-10 
 Test case 8 : Zobrazení očkování prot... 	Done 
@@ -166,7 +168,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 invalid data for pravidelné léky is accepted.png    ![Alt text](path/to/image) 
+Attachments: 	 ![invalid data for pravidelné léky is accepted](https://github.com/user-attachments/assets/18f08311-44fe-43d1-bd0c-df25c22a6505)
+
 Issue links: 	Relates
 relates to 	TE-9 
 Test case 7: Vstup seznamu pravidelně... 	Done 
@@ -206,7 +209,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Tuberkulóza is missing in exported TXT file.png    ![Alt text](path/to/image) 
+Attachments: 	 ![Tuberkulóza is missing in exported TXT file](https://github.com/user-attachments/assets/17fd065e-3384-44e1-aa44-e7246657b9e0)
+
 Issue links: 	Blocks
 blocks 	TE-8 
 Test case 6 : Vstup anamnézy a součas... 	Done 
@@ -244,7 +248,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 the unrealistic date of birth is accepted.png      the unrealistic date of birth is accepted1.png   ![Alt text](path/to/image)  
+Attachments: 	![the unrealistic date of birth is accepted1](https://github.com/user-attachments/assets/ecc1a79b-b422-4139-a57f-87a0ca1cc07a) ![the unrealistic date of birth is accepted](https://github.com/user-attachments/assets/68a1e795-f85a-4de1-8d88-4864d4e5df41)
+
+ 
 Issue links: 	Relates
 relates to 	TE-6 
 Test case 4: Výpočet věku na základě... 	Done 
@@ -289,7 +295,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 invalid data for výška and váha are accepted.png      invalid data for výška and váha are accepted1.png     ![Alt text](path/to/image)
+Attachments: 	 ![invalid data for výška and váha are accepted](https://github.com/user-attachments/assets/e02d56c0-41f9-4718-b348-fb9f22c5cc6d) ![invalid data for výška and váha are accepted1](https://github.com/user-attachments/assets/7c95f627-1e23-4024-8339-6da6ac7d458a)
+
+
 Issue links: 	Relates
 relates to 	TE-5 
 Test case 3: Vstup dalších údajů pac... 	Done 
@@ -328,7 +336,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 invalid data is accepted for registration form.png      negativ testing of registration.png     ![Alt text](path/to/image)
+Attachments: 	![invalid data is accepted for registration form](https://github.com/user-attachments/assets/17aead4e-9a40-40c6-a925-85efe830492c)
+      ![negativ testing of registration](https://github.com/user-attachments/assets/f023315b-7135-46d7-b116-d3eb9ceda9fe)
+
 Issue links: 	Blocks
 blocks 	TE-3 
 Test case 1: Registrace nového pacienta 	Done 
