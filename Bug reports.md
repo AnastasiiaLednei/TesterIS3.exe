@@ -16,7 +16,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	![Unrealistic vaccination date and free vaccination offer](D:\Unrealistic_vaccination_date_and_free_vaccination_offer.png)   
+Attachments: 	![Unrealistic_vaccination_date_and_free_vaccination_offer](https://github.com/user-attachments/assets/ca4632f7-e2f1-4ef2-8857-07fffe452c92)
+
+)   
 Issue links: 	Relates
 relates to 	TE-12 
 Test case 10: Nabídka očkování proti ... 	Done 
