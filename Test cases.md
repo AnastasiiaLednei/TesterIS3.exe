@@ -16,7 +16,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 exported data to txt format (52109961-1948-4136-9f21-7aa3e8de68f1).png   ![Alt text](path/to/image)  
+Attachments: 	 ![exported data to txt format](https://github.com/user-attachments/assets/f33b2ae2-e39d-49b2-8733-64d7bc9c76a6)
+  
 
  Description  	 
 Cíl: Ověřit, že karta pacienta může být exportována do textového souboru. 
@@ -77,7 +78,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Unrealistic vaccination date and free vaccination offer.png     ![Alt text](path/to/image)
+Attachments: 	 ![Unrealistic_vaccination_date_and_free_vaccination_offer](https://github.com/user-attachments/assets/09ada8a3-31fc-4a48-be6b-d74822083468)
+
 Issue links: 	Relates
 relates to 	TE-23 
 Chybná nabídka na první očkování prot... 	To Do 
@@ -112,7 +114,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Discount_20_for_patients_aged_50.png      Discount_50_for_patients_aged_70.png     ![Alt text](path/to/image)
+Attachments: 	 ![Discount_20_for_patients_aged_50](https://github.com/user-attachments/assets/c4b6bca8-7134-49e1-9010-c9389096d7cb) ![Discount_50_for_patients_aged_70](https://github.com/user-attachments/assets/eaff64ef-181f-465a-8e8e-2e5bf69aba72)
+
+
 Issue links: 	Relates
 relates to 	TE-21 
 Sleva na brýle pro pacienty, kterým ... 	To Do 
@@ -150,7 +154,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Vaccine_Date_Validation_Failure.png     ![Alt text](path/to/image)
+Attachments: 	![Vaccine_Date_Validation_Failure](https://github.com/user-attachments/assets/a10c68bf-95fa-42c0-9a80-e42dcc21932d)
+
 Issue links: 	Relates
 relates to 	TE-20 
 Akceptace nevalidního data poslední v... 	To Do 
@@ -185,7 +190,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 invalid data for pravidelné léky is accepted.png     
+Attachments: 	 ![invalid data for pravidelné léky is accepted](https://github.com/user-attachments/assets/4732c92e-d7e1-45ea-8489-79294f4e3729)
+ 
 Issue links: 	Relates
 relates to 	TE-19 
 Nedostatečná validace při zadávání pr... 	To Do 
@@ -220,7 +226,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 Tuberkulóza is missing in exported TXT file.png  ![Alt text](path/to/image)   
+Attachments: 	 ![Tuberkulóza is missing in exported TXT file](https://github.com/user-attachments/assets/482e679e-f38c-4ac3-9d8f-af4e4d127af4)
+
 Issue links: 	Blocks
 is blocked by 	TE-18 
 Chyba při exportu prodělaných chorob:... 	To Do 
@@ -256,7 +263,8 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 BMI calculation for invalid input.png     ![Alt text](path/to/image)
+Attachments: 	![BMI calculation for invalid input](https://github.com/user-attachments/assets/c981fdcb-eeb0-4c2a-8a0b-aaacc9dbb3ee)
+
 Issue links: 	Relates
 relates to 	TE-17 
 Nedostatečná validace pro historická ... 	To Do 
@@ -291,7 +299,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 the unrealistic date of birth is accepted.png      the unrealistic date of birth is accepted1.png     ![Alt text](path/to/image)
+Attachments: 	 ![the unrealistic date of birth is accepted1](https://github.com/user-attachments/assets/22327dce-1105-470f-949e-ea1c0c9120d9) ![the unrealistic date of birth is accepted](https://github.com/user-attachments/assets/9348f966-423a-4050-ab46-2c7ac56d4559)
+
+
 Issue links: 	Relates
 relates to 	TE-17 
 Nedostatečná validace pro historická ... 	To Do 
@@ -326,7 +336,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 invalid data for výška and váha are accepted.png      invalid data for výška and váha are accepted1.png     ![Alt text](path/to/image)
+Attachments: 	 ![invalid data for výška and váha are accepted](https://github.com/user-attachments/assets/491e8b8f-f85c-43ec-86d2-eab701627e3a) ![invalid data for výška and váha are accepted1](https://github.com/user-attachments/assets/6cde3074-6774-41af-a286-0ee40367216a)
+
+
 Issue links: 	Relates
 relates to 	TE-16 
 Akceptace nevalidních dat pro výšku a... 	To Do 
@@ -361,7 +373,10 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 the error message is displayed (all).png      the error message is displayed 1.png      the error message is displayed 2.png  ![Alt text](path/to/image)   
+Attachments: 	![the error message is displayed (all)](https://github.com/user-attachments/assets/c30ef42f-8d17-4952-b9ad-d07fa794bfe0) ![the error message is displayed 1](https://github.com/user-attachments/assets/282f2cb8-7561-4200-acf7-166cd702b193) ![the error message is displayed 2](https://github.com/user-attachments/assets/c7c83031-d4d0-492f-87d6-e0ccb0485581)
+
+
+  
 
  Description  	 
 Cíl: Ujistit se, že povinná pole nelze ponechat prazdná. 
@@ -393,7 +408,9 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	 invalid data is accepted for registration form.png      negativ testing of registration.png     ![Alt text](path/to/image)
+Attachments: 	 ![invalid data is accepted for registration form](https://github.com/user-attachments/assets/37a61bf9-55da-4fa0-a2e3-9e4734f52598) ![negativ testing of registration](https://github.com/user-attachments/assets/9523672d-9ee8-4e83-8237-2c6d23ab7140)
+
+
 Issue links: 	Blocks
 is blocked by 	TE-15 
 Chybejicí nápovědy pro validaci a akc... 	To Do 
