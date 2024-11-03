@@ -16,7 +16,7 @@ Remaining Estimate:	Not Specified
 Time Spent:	Not Specified 
 Original estimate:	Not Specified 
 
-Attachments: 	![Unrealistic vaccination date and free vaccination offer](C:\Users\arros\OneDrive\Робочий стіл\Testing tasks screenshots\Unrealistic vaccination date and free vaccination offer.png)   
+Attachments: 	![Unrealistic vaccination date and free vaccination offer](D:\Unrealistic_vaccination_date_and_free_vaccination_offer.png)   
 Issue links: 	Relates
 relates to 	TE-12 
 Test case 10: Nabídka očkování proti ... 	Done 
