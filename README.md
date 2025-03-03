@@ -1,4 +1,4 @@
-# TesterIS3.exe
+# TesterIS3.exe testing the core functions of the application 
 
 Purpose:
 Verify the functionality of TesterIS3.exe based on the functional requirements for a patient health card form.
