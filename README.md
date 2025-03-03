@@ -27,7 +27,9 @@ Test Objectives:
 - Verify that discounts for eyewear are applied correctly.
 
 - Assess the user-friendliness and smooth operation of the program.
+  
 Test Approach:
 
-Manual testing using predefined test cases
-Tools: Jira
+- Manual testing using predefined test cases
+  
+- Tools: Jira
